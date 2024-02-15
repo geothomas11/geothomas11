@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Geo Thomas I'm from Thiruvalla, Pathanamthitta<br><br>- 🔭 I’m working as  Software Developer<br>- 📚 I'm currently learning GOlang<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Geo Thomas I'm from Thiruvalla, Pathanamthitta<br><br>- 🔭 I’m working as  Software Developer<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I ...</p>
 
 ###
 
