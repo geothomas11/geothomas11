@@ -10,7 +10,7 @@
   <a href="https://twitter.com/GeoThomas_11" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="[geothomas11@gmail.com](https://mail.google.com/mail/u/0/)" target="_blank">
+  <a href="[geothomasdev@gmail.com](https://mail.google.com/mail/u/0/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=%2B919746359523&text&type=phone_number&app_absent=0" target="_blank">
