@@ -1,4 +1,4 @@
-  <img height="150" src="https://raw.githubusercontent.com/geothomas11/README>md/main/Linkedin Bg.png
+  <img height="200" src="https://raw.githubusercontent.com/geothomas11/README>md/main/Linkedin Bg.png
 "  />
 </div>
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 <br>I'm Geo Thomas</h1>
+<h1 align="center">Hey there 👋 <br>I'm Geo Thomas</h1>
 
 ###
 
