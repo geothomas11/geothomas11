@@ -1,4 +1,5 @@
-  <img height="150" src="[https://media.licdn.com/dms/image/D5616AQEntWdXrwdkbg/profile-displaybackgroundimage-shrink_350_1400/0/1706796354483?e=1713398400&v=beta&t=MugpBlw_p_lZuqeJyTNmXNYS_LJYuIT2FkkxKfWl_-A](https://drive.google.com/file/d/16nsw6N5ZZKh-ed0h-Af8AYiwQw4rKXyH/view?usp=sharing)"  />
+  <img height="150" src="https://raw.githubusercontent.com/geothomas11/README>md/main/Linkedin Bg.png
+"  />
 </div>
 
 ###
